@@ -1,11 +1,11 @@
 ## Olá, eu sou o Lucas!
 
-<div>  
+<div>
   <a href="https://github.com/Lucasrcarvalho" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasrcarvalho&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasrcarvalho&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/Lucasrcarvalho" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrcarvalho&layout=compact&langs_count=16&theme=light"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrcarvalho&layout=compact&langs_count=16&theme=light" alt="Linguagens mais usadas" />
   </a>
 </div>
 
